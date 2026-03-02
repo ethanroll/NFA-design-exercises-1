@@ -1,4 +1,4 @@
-# NFA-design-exercises-1
+## NFA-design-exercises-1
 
 ## Which problem(s) gave you the most trouble? Did you avoid any problem that is too challenging to finish by deadline? Did you ask questions to AI/instructor?
 
